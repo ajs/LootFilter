@@ -350,24 +350,26 @@ Show
 
 Show 
 	Rarity Rare
-	SetFontSize 27
+	SetFontSize 28
 	SetTextColor 255 255 0 170
 	SetBorderColor 255 255 0
 	SetBackgroundColor 100 40 40 200
 	
 #########Chisel Recipe Highlighting
-#	
-#Show
-#    BaseType "Gavel" "Rock Breaker" "Stone Hammer"
-#    Rarity Normal
-#	SetFontSize 25
-#    SetBorderColor 0 0 255		
-#Show
-#    BaseType "Gavel" "Rock Breaker" "Stone Hammer"
-#    Rarity Magic
-#    Quality > 15
-#	SetFontSize 25
-#	SetBorderColor 0 0 255
+
+Show
+	BaseType "Gavel" "Rock Breaker" "Stone Hammer"
+	ItemLevel >= 60
+	Rarity Normal
+	SetFontSize 25
+	SetBorderColor 0 0 255
+Show
+	BaseType "Gavel" "Rock Breaker" "Stone Hammer"
+	ItemLevel >= 60
+	Rarity Magic
+	Quality > 15
+	SetFontSize 25
+	SetBorderColor 0 0 255
 	
 ####### 6S/5L
 
