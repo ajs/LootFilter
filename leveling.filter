@@ -8,6 +8,9 @@
 # really for shorter duration leagues and new players and people
 # who just really don't care about the economy as much.
 
+# You can find the most current versin of this file at:
+# https://github.com/ajs/LootFilter/blob/master/leveling.filter
+
 #------------------------------------------------------------------
 #Fishing Rods First OFC
 Show
@@ -15,10 +18,10 @@ Show
     SetTextColor 0 0 0
     SetBorderColor 0 0 0
     SetBackgroundColor 255 255 255
-	
+
 Show 
 	Class "Quest Items"
-	
+
 #####Shows better currency differently from lower currency for efficiency
 ##### skill gems
 Show
