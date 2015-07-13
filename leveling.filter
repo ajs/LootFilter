@@ -82,7 +82,7 @@ Show
 Show
 	Class Currency
 	SetTextColor 200 200 130
-	SetFontSize 28
+	SetFontSize 30
 	SetBackgroundColor 0 0 0 
 	#############################
     
@@ -390,7 +390,7 @@ Show
 	Class "Amulets" "Rings" "Claws" "Daggers" "Wands" "One Hand Swords" "Thrusting One Hand Swords" "One Hand Axes" "One Hand Maces" "Bows" "Staves" "Two Hand Swords" "Two Hand Axes" "Two Hand Maces" "Quivers" "Belts" "Gloves" "Boots" "Body Armours" "Helmets" "Shields" "Sceptres" 
 	Rarity Magic
 	ItemLevel <= 20
-	SetFontSize 25
+	SetFontSize 28
 	SetTextColor 255 255 255 220
 	SetBackgroundColor 0 0 0 220
 
@@ -398,7 +398,7 @@ Show
 	Class "Amulets" "Rings" "Claws" "Daggers" "Wands" "One Hand Swords" "Thrusting One Hand Swords" "One Hand Axes" "One Hand Maces" "Bows" "Staves" "Two Hand Swords" "Two Hand Axes" "Two Hand Maces" "Quivers" "Belts" "Gloves" "Boots" "Body Armours" "Helmets" "Shields" "Sceptres" 
 	Rarity Normal
 	ItemLevel <= 5
-	SetFontSize 22
+	SetFontSize 28
 	SetTextColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
 
@@ -433,7 +433,7 @@ Show
 Show
 	BaseType "Small Life Flask" "Small Mana Flask"
 	ItemLevel < 12
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
@@ -443,7 +443,7 @@ Show
 Show
 	BaseType "Medium Life Flask" "Medium Mana Flask"
 	ItemLevel < 19
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
@@ -453,7 +453,7 @@ Show
 Show
 	BaseType "Large Life Flask" "Large Mana Flask"
 	ItemLevel < 20
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
@@ -462,7 +462,7 @@ Show
 Show
 	BaseType "Greater Life Flask" "Greater Mana Flask"
 	ItemLevel < 24
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
@@ -471,7 +471,7 @@ Show
 Show
 	BaseType "Grand Life Flask" "Grand Mana Flask"
 	ItemLevel < 34
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
@@ -480,7 +480,7 @@ Show
 Show
 	BaseType "Giant Life Flask" "Giant Mana Flask"
 	ItemLevel < 38
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
@@ -489,7 +489,7 @@ Show
 Show
 	BaseType "Colossal Life Flask" "Colossal Mana Flask"
 	ItemLevel < 45
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
@@ -498,7 +498,7 @@ Show
 Show
 	BaseType "Sacred Life Flask" "Sacred Mana Flask"
 	ItemLevel < 49
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
@@ -507,7 +507,7 @@ Show
 Show
 	BaseType "Hallowed Life Flask" "Hallowed Mana Flask"
 	ItemLevel < 58
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
@@ -516,7 +516,7 @@ Show
 Show
 	BaseType "Sanctified Life Flask" "Sanctified Mana Flask"
  	ItemLevel < 70
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
@@ -524,7 +524,7 @@ Show
 ### REQ LEVEL 65 and 70 Respectively 2 best bases in game, always show 
 Show
 	BaseType "Divine Life Flask" "Eternal Life Flask" "Divine Mana Flask" "Eternal Mana Flask"
-	SetFontSize 28 
+	SetFontSize 30 
 	SetTextColor 255 255 255 180
 	SetBorderColor 255 255 255 180
 	SetBackgroundColor 0 0 0 180
