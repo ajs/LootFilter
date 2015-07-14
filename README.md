@@ -1,24 +1,28 @@
 # LootFilter
-Please message me ingame @Thiole with feedback or questions
+Please message me ingame @Zinfindelta with feedback or questions
 
 http://i.imgur.com/5GLAcsX.jpg How it looks in game
 
 
-
 Loot filter for PoE Beta 2.0
 
-HOW TO ADD TO Path Of Exile
+HOW TO ADD TO Path Of Exile under Windows (be aware just downloading the file may add a ".txt" extension which will cause you all kinds of problems. Follow the instructions carefully)
 
-1) Save the desired file to %My Documents%/My Games/Path of Exile
+1) Download the desired filter.
 
-2) Restart Path of Exile Beta if you have it open
+2) Assuming your browser saves to a Downloads folder, type the Windows menu key, then "cmd.exe" and enter. This should give you a command shell.
+
+3) `cp "Downloads\leveling.filter" "Documents\my games\Path of Exile\leveling.filter"`
+
+4) If that command fails, try putting ".txt" after the *first* filename (not the second) in the above command.
+
+5) Log out (you don't have to exit) and back in then select the character you want to use the filter on.
   
-  3) Start game 
-  
-  4) Login to Beta
- 
-  5) Esc > Options
+6) Esc > Options
 
-  6) GO to UI tab, at the bottom select the filter, once it says "Filter loaded successfully" no restart required, you are good to go
+7) GO to UI tab, at the bottom select the filter, once it says "Filter loaded successfully" no restart required, you are good to go
 
-  7) Any updates to the filter can be reloaded without restarting the game by clicking the "reload" button in options
+8) Any updates to the filter can be reloaded without restarting the game by clicking the "reload" button in options
+
+
+For MacOS, the process is very similar, but MacOS won't be so aggressive about renaming the file, so just download via the browser and use the finder to move it to your Path of Exile folder.
