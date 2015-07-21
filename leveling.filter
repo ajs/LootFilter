@@ -351,12 +351,21 @@ Show
 	SetBorderColor 0 0 0 200
 	SetBackgroundColor 0 0 0 200
 
+Show
+	Class "Map" "Map Fragment"
+	Rarity Rare
+	ItemLevel >= 75
+	SetBorderColor 255 0 0
+
+Show
+	Class "Map" "Map Fragment"
+	Rarity Rare
+
 Show 
 	Rarity Rare
-	SetFontSize 28
+	SetFontSize 30
 	SetTextColor 255 255 0 170
-	SetBorderColor 255 255 0
-	SetBackgroundColor 100 40 40 200
+	SetBackgroundColor 0 0 0 200
 	
 #########Chisel Recipe Highlighting
 
