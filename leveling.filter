@@ -405,7 +405,7 @@ Show
     Rarity Magic
     ItemLevel <= 20
     SetFontSize 28
-    SetTextColor 255 255 255 220
+    SetTextColor 100 100 255 220
     SetBackgroundColor 0 0 0 220
 
 Show
