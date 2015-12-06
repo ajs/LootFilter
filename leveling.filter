@@ -217,12 +217,10 @@ Show
     SetBackgroundColor 0 0 0 200
     SetFontSize 32
 
-# If you're farming for the first time on your old STD character,
-# you might want to change this to Show:
 Hide
     Class Jewel
     Rarity Magic Normal
-    ItemLevel > 66
+    ItemLevel < 66
 
 Show
     Class Jewel
@@ -289,6 +287,7 @@ Show
 
 Show
     SocketGroup RGB BGR
+	Sockets < 6
     SetFontSize 34 
     SetTextColor 0 255 0
     SetBorderColor 0 255 0
