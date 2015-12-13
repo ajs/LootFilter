@@ -89,6 +89,11 @@ Show
     SetBackgroundColor 0 0 0 
     #############################
     
+# Talisman
+Show
+	BaseType "Talisman"
+	SetFontSize 32
+
 #unique Weapon slot start
 
 #staves / wands
