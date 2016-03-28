@@ -11,6 +11,16 @@
 # You can find the most current versin of this file at:
 # https://github.com/ajs/LootFilter/blob/master/leveling.filter
 
+## TEMP STUFF
+#
+
+Show
+    Rarity Normal
+    Class "Amulets" "Rings" "Belts"
+	SetFontSize 28
+	SetBorderColor 0 0 200
+	ItemLevel >= 60
+
 #------------------------------------------------------------------
 #Fishing Rods First OFC
 Show
@@ -240,8 +250,8 @@ Show
 
 Hide
     Class Jewel
-    Rarity Magic Normal
-    ItemLevel < 66
+    Rarity Normal
+    ItemLevel > 66
 
 Show
     Class Jewel
@@ -252,7 +262,6 @@ Show
 
 Show
     Class Jewel
-    ItemLevel <= 66
     SetBorderColor 255 0 255
     SetFontSize 34
 
