@@ -389,6 +389,7 @@ Show
 Show
     Class "Map" "Map Fragment"
     Rarity Rare
+	SetBorderColor 255 255 0
 
 Show 
     Rarity Rare
@@ -449,6 +450,7 @@ Show
 
 Show
 Class "Map Fragments" "Maps"
+    SetBorderColor 0 255 0
 
 #### Flask Highlighting
 
